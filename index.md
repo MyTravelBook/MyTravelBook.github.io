@@ -28,7 +28,9 @@
 
 简介：郑州方特欢乐世界是一个以高科技为主要表现形式的文化科技主题公园]。公园建在郑开大道与人文路交叉口向南，绿博园正对面。公园的内容涵盖现代科技、科学幻想、神话传说、历史文化、主题表演等多个方面，形式新颖、内容丰富，适合不同年龄层游客的需要。项目惊险刺激、富有文化内涵，参与性、体验性强。公园设计年游客接待能力为250万人次。
 
-<video src="./source/fangte.mp4"></video>
+<video id="video" controls="" preload="none" width="600"  controls="controls" style="width= 50%; height=100%; object-fit: fill">
+    <source id="mp4" src="./sources/fangte.mp4">
+</video>
 
 [**郑州绿博园**](http://www.zzzglby.com/)
 
