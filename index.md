@@ -1,41 +1,52 @@
-## 郑州三日行指导书
+## 郑州避暑夏日企划
+
 **写在前面的话**
 
 + ==见面勿提胖瘦==
 + 6月27日做核酸检测，不然上不了高铁
-+ 。。。
++ 关于水的东西可以到了再买
 
+<img src="./source/电脑.jpg" alt="电脑" style="zoom: 25%;" />
 
+### 景点
+
+[**银基乐海水世界**](https://www.dahepiao.com/lvyounews1/20220526274256.html)
+
+简介：银基乐海水世界位于郑州银基国际旅游度假区项目内，乐海水世界占地约17万平方米，涵盖主题游乐、旅游休闲、特色商业等多种功能，形成沙滩、水上、岛湾等多元化空间形态。银基乐海水世界严格按5A级景区标准打造，并以法国著名作家凡尔纳的名著《海底两万里》为主题文化背景。背景故事主要讲述了船长尼莫带领儿子贝特乘船航海，一路上遇到的奇幻故事。
+
+<video src="./source郑州银基乐海水世界.mp4"></video>
+
+[**方特**](http://zhengzhou.fangte.com/adventure/)
+
+简介：郑州方特欢乐世界是一个以高科技为主要表现形式的文化科技主题公园]。公园建在郑开大道与人文路交叉口向南，绿博园正对面。公园的内容涵盖现代科技、科学幻想、神话传说、历史文化、主题表演等多个方面，形式新颖、内容丰富，适合不同年龄层游客的需要。项目惊险刺激、富有文化内涵，参与性、体验性强。公园设计年游客接待能力为250万人次
+
+[**郑州绿博园**](http://www.zzzglby.com/)
+
+郑州·中国绿化博览园位于郑州新区绿博大道，为国家级AAAA旅游景区。绿博园植被资源丰富，风光秀丽，绿树成荫，碧水蓝天，飞瀑流泉。园区中心的枫湖碧波荡漾，如一片巨型的枫叶飘落绿色的海洋之中。枫湖四周水绿交融、坡岛交接的众多水系构成了广阔的湿地，良好的生态环境，使得各种珍稀动物在这里繁衍生息。每年夏季期间，绿博园都会举办“绿博之夜”精彩活动，夏季夜游绿博园，徜徉璀璨夜景。古色古香的展园在璀璨灯光的装点下，神秘而美丽;如梦似幻的灯帘流光溢彩，火树银花。绿博之夜，夜色撩人醉，走至其中，带你探寻童话世界。每年的6月至8月，绿博园300余亩水系，随处可见荷花盛开的场景，持续三个月。
 
 ### 住宿
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+到时候再说
 
 ### 交通
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MyTravelBook/MyTravelBook.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**临颍到许昌**
 
-### 游玩
+私家车 + 滴滴
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+刘一童他爸好像可以带3个人，当然也可以都打出租去
+
+**许昌到郑州**
+
+G554 
+
+许昌东站 — 郑州东站
+
+8:57 — 9:19 (23min)
+
+==这个车二等座33元，一等座53元==
+
+### 人员
+
+白一兰、刘一童、崔栩、贾云浩、钱林辉、夏文杰、李冲豪（28日晚在郑州加入我们）
 
